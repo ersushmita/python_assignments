@@ -12,3 +12,7 @@ git add .
 git status
 git commit -m "commit message"
 git push
+git push --set-upstream origin master
+
+#seperate Branch
+git checkout -b "TuteDude_Python_Assignments"
